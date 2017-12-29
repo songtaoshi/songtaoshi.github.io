@@ -12,10 +12,18 @@ locale                   : "en"
 title                    : "Songtao Shi"
 title_separator          : "-"
 name                     : "Songtao Shi"
+<<<<<<< HEAD
 description              : "perspnal homepage"
 url                      : "https://songtaoshi.xyz"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
+=======
+description              : "cs undergraduate student in njust"
+url                      : “https://songtaoshi.xyz"
+# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : “/blog”
+# the subpath of your site, e.g. "/blog"
+>>>>>>> dbdaa7e471d6b26dbe39e8599831d81d47cd452c
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
